@@ -1,0 +1,8 @@
+INSERT INTO clienti_tab (Nominativo,CF,Telefono,Indirizzo,Cap,Citta,Email,Foto) VALUES ('Vincenzo Spina','',','Via delle Spine','81090','Avellino','','source/img/Clienti/VincenzoSpina.jpg')
+INSERT INTO clienti_tab (Nominativo,CF,Telefono,Indirizzo,Cap,Citta,Email,Foto) VALUES ('Vincenzo Spina','','','Via delle Spine','81090','Avellino','','source/img/Clienti/VincenzoSpina.jpg')
+INSERT INTO clienti_tab (Nominativo,CF,Telefono,Indirizzo,Cap,Citta,Email,Foto) VALUES ('Vincenzo Spina','C1','','Via delle Spine, 41','81090','Avellino','','source/img/Clienti/VincenzoSpina.jpg')
+12:43:50 pm update opere_tab set descrizione='Bar (Foto 1)',altezza=71.00,larghezza=48.00,Profondita=0.00',foto='source/img/Opere/Bar/bar1.jpg' where ID =2
+12:46:03 pm update opere_tab set descrizione='Bar (Foto 1)',altezza=78.00,larghezza=48.00,Profondita=0.00,foto='source/img/Opere/Bar/bar1.jpg' where ID =2
+INSERT INTO clienti_tab (Descrizione,Altezza,Larghezza,Profondita,Foto) VALUES ('',12.35,32,46,'')
+INSERT INTO clienti_tab (Descrizione,Altezza,Larghezza,Profondita,Foto) VALUES ('',12.45,13.26,67.30,'source/img/Opere/pippopluto.jpg')
+INSERT INTO clienti_tab (Descrizione,Altezza,Larghezza,Profondita,Foto) VALUES ('pippo pluto',12.35,31.45,67.30,'source/img/Opere/pippopluto.jpg')
